@@ -26,6 +26,7 @@ Tech Stack :
 ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-05122A?style=flat)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-05122A?style=flat)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab)
 
 
 ![Screenshot (23)](https://github.com/lily02092003/whatsapp-chat-analyser/assets/108693415/f393dc1c-6537-46ba-a160-002abb03b661)
